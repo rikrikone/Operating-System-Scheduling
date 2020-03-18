@@ -6,3 +6,6 @@ Maestro-student --- MARK LESTER DAVID BATAL
 
 BSIT-2A   Saturday 8:30 AM --- 1:30 PM
 makizanuy --- EDJONSON CRIS P. Uy
+
+BSIT-2A   Saturday 8:30 AM --- 1:30PM
+rikrikone --- JOHN PATRICK M.PAREJA
